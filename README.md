@@ -1,4 +1,4 @@
-# 🎓 Student Assistant - Smart Study Planner
+# 🎓 StudyPlanAI
 
 A comprehensive study planning and routine management system for students. Organize your daily schedule, track routines, and generate smart study plans automatically.
 
